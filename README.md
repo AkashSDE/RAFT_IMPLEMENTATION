@@ -12,6 +12,8 @@ In this project I implemented the two major task involved in RAFT algorithms
 As per RAFT algorithm each node in a cluster can exist in three states, namely **Leader, Candidate and Follower**.
 The below flow diagram explains the transition of nodes into different states.
 
+
+![](https://github.com/AkashSDE/RAFT_IMPLEMENTATION/blob/main/ReadmeImages/Capture1.1.JPG)
 <p align="center">
 <img src="https://github.com/AkashSDE/RAFT_IMPLEMENTATION/blob/main/ReadmeImages/Capture1.1.JPG">
 </p>
