@@ -13,7 +13,7 @@ As per RAFT algorithm each node in a cluster can exist in three states, namely *
 The below flow diagram explains the transition of nodes into different states.
 
 
-![](https://github.com/AkashSDE/RAFT_IMPLEMENTATION/blob/main/ReadmeImages/Capture1.1.JPG)
+![](https://github.com/AkashSDE/RAFT_IMPLEMENTATION/blob/main/ReadmeImages/Picture1.png)
 <p align="center">
 <img src="https://github.com/AkashSDE/RAFT_IMPLEMENTATION/blob/main/ReadmeImages/Capture1.1.JPG">
 </p>
