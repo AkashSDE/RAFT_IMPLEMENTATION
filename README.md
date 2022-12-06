@@ -13,7 +13,7 @@ As per RAFT algorithm each node in a cluster can exist in three states, namely *
 The below flow diagram explains the transition of nodes into different states.
 
 <p align="center">
-<img src="https://github.com/akdev121/RaftImplementation/blob/74eff67e269e5f7b0894bb01498e41b62eccbe0d/ReadmeImages/Capture1.1.JPG">
+<img src="https://github.com/AkashSDE/RAFT_IMPLEMENTATION/blob/main/ReadmeImages/Capture1.1.JPG">
 </p>
 
 For implementing succesful Leader Election, I incorporated below mentioned mechanism on each node
